@@ -10,4 +10,4 @@
     Fix caret goes to wrong position after word completion.
     Enhance Function List for supporting language.
     Fix toolbar not showing issue while launching Notepad++ from system tray in some unknown configuration.
-    git@github.com:80205/python-study.git
+   
