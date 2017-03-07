@@ -1,0 +1,14 @@
+
+    Fix crash issue on column mode editor.
+    Fix "Use new style save dialog" setting's regression.
+    Enhance "Open file" command - open a file from editor zone without selecting its full path.
+    Fix word char list settings not applying on next launch issue.
+    Fix block uncomment for line comment bug.
+    BaanC Language is supported.
+    Add error notification on run dialog.
+    Fix the caret position not maintained issue between document move.
+    Fix caret goes to wrong position after word completion.
+    Enhance Function List for supporting language.
+    Add check mark in Language menu.
+    Fix toolbar not showing issue while launching Notepad++ from system tray in some unknown configuration.
+
