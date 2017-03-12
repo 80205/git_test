@@ -9,5 +9,5 @@
     Fix the caret position not maintained issue between document move.
     Fix caret goes to wrong position after word completion.
     Enhance Function List for supporting language.
-    Fix toolbar not showing issue while launching Notepad++ from system tray in some unknown configuration.
+    Fix toolbar not showing issue while launching Notepad++ from system tray in some unknown con
    
